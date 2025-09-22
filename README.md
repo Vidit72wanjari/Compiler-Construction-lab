@@ -25,3 +25,5 @@
 7th output
 
 <img width="695" height="171" alt="Screenshot from 2025-09-01 14-01-55" src="https://github.com/user-attachments/assets/b5a346be-e06c-4ca8-a9c6-f94c34a87ebb" />
+8th output
+![WhatsApp Image 2025-09-22 at 2 50 57 PM](https://github.com/user-attachments/assets/4c06dbf1-5fc9-4a35-aadb-a1fba1c6d91f)
