@@ -3,7 +3,8 @@
 
 2nd output
 
-![Uploading WhatsApp Image 2025-09-22 at 2.17.46 PM.jpeg…]()
+![WhatsApp Image 2025-09-15 at 2 37 58 PM](https://github.com/user-attachments/assets/70cf8dcc-92d8-4d4b-8148-6ab45ad9c022)
+
 
 3rd output 
 ![WhatsApp Image 2025-09-22 at 2 17 49 PM (1)](https://github.com/user-attachments/assets/21b38332-bab2-4056-98dd-216779ea2b61)
